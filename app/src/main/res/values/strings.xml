@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UIApp</string>
+    <string name="b_refresh">⟳</string>
+    <string name="t_total">Total Cases</string>
+    <string name="t_deceased">Deceased</string>
+    <string name="t_active">Recovered</string>
+    <string name="o_total"></string>
+    <string name="o_deceased"></string>
+    <string name="o_active"></string>
+    <string name="n_head">HEADLINES</string>
+    <string name="htv1"></string>
+    <string name="htv2"></string>
+    <string name="htv3"></string>
+    <string name="htv4"></string>
+    <string name="htv5"></string>
+</resources>
